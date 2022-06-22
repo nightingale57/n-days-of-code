@@ -12,3 +12,12 @@ I like to work with [Visual Studio Code](https://code.visualstudio.com/) - it's 
 It allows you to use [Conda](https://docs.conda.io/en/latest/) to manage your packages, and you can work in the terminal and in your code at the same time (including on a cluster). It also has [Jupyter Notebooks](https://jupyter.org/), which I really enjoy when I'm exploring my data. 
 
 
+#### Colour picking
+Colours (and where applicable textures) are really important to bringing out the stories in the data. Choosing one colour for a particular feature, and carrying on with that throughout visualisation helps to keep the mind focused on the story behind the data, rather than trying to reorient every time to what colour represents what. 
+
+The other thing to take into account is of course *colour blindness*. Red-green is the most common kind, but it's worth using tools to check if your colours will be distinguishable to all of your intended audience.  
+
+Great colour tools that I have found include:
+* [html color codes](https://htmlcolorcodes.com/color-picker/)
+* [Color Brewer](https://colorbrewer2.org)
+* [Coolors](https://coolors.co) - as well as palette picking, this has a great feature for showing what a certain palette looks like to people with different kinds of colour blindness

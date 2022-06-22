@@ -2,6 +2,8 @@
 
 [Day 0](day-0)
 
+[Day 1 - Data Visualisation](day-1)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nightingale57/n-days-of-code/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
